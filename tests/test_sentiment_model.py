@@ -1,6 +1,6 @@
 """
 Unit tests for sentiment_model.py
-Author: Your Name
+Author: Ayobami Samuel Obitade
 Date: 2025-07-23
 """
 
