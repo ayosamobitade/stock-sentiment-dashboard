@@ -1,7 +1,7 @@
 """
 Module: fetch_stock_data
 Purpose: Fetch historical and intraday stock price data using Yahoo Finance API via yfinance.
-Author: Your Name
+Author: Ayobami Samuel Obitade
 Date: 2025-07-23
 """
 
