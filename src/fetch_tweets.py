@@ -1,7 +1,7 @@
 """
 Module: fetch_tweets
 Purpose: Fetch tweets related to a stock ticker or keyword using snscrape.
-Author: Your Name
+Author: Ayobami Samuel Obitade
 Date: 2025-07-23
 """
 
