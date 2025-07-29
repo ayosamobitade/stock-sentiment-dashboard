@@ -32,4 +32,32 @@ The dashboard demonstrates:
 
 ## Project Structure
 
-
+```
+stock-sentiment-dashboard/
+│
+├── data/ # Sample datasets (CSV)
+│ ├── historical_prices.csv
+│ └── sentiment_data.csv
+│
+├── notebooks/ # Jupyter notebooks for analysis
+│ ├── 01_price_analysis.ipynb
+│ ├── 02_sentiment_analysis.ipynb
+│ └── 03_correlation_and_signals.ipynb
+│
+├── src/ # Source code modules
+│ ├── fetch_stock_data.py
+│ ├── fetch_tweets.py
+│ ├── sentiment_model.py
+│ ├── signal_generator.py
+│ └── utils.py
+│
+├── app/
+│ ├── dashboard.py # Streamlit dashboard app
+│ └── requirements.txt # Project dependencies
+│
+├── tests/ # Unit tests
+│ └── test_sentiment_model.py
+│
+├── README.md
+└── LICENSE
+```
