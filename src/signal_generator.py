@@ -2,7 +2,7 @@
 """
 Module: signal_generator
 Purpose: Generate simple trading signals based on price data and sentiment scores.
-Author: Your Name
+Author: Ayobami Samuel Obitade
 Date: 2025-07-23
 """
 
