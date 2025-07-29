@@ -1,7 +1,7 @@
 """
 Module: sentiment_model
 Purpose: Provide NLP sentiment analysis functions using VADER and optionally BERT.
-Author: Your Name
+Author: Ayobami Samuel Obitade
 Date: 2025-07-23
 """
 
