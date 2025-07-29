@@ -73,21 +73,21 @@ stock-sentiment-dashboard/
    cd stock-sentiment-dashboard/app
 ```
 
-Create and activate a virtual environment (optional but recommended):
-
+2. Create and activate a virtual environment (optional but recommended):
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-Install dependencies:
-
+```
+3. Install dependencies:
+```bash
     pip install -r requirements.txt
-
-Usage
+```
+4. Usage
 
 Run the Streamlit dashboard:
-
+```bash
 streamlit run dashboard.py
-
+```
 Open the URL shown in the terminal (usually http://localhost:8501) in your browser.
 
 ## Customization
