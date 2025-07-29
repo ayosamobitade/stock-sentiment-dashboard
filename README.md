@@ -68,12 +68,13 @@ stock-sentiment-dashboard/
 
 1. Clone the repo:
 
-   ```bash
+```bash
    git clone https://github.com/yourusername/stock-sentiment-dashboard.git
    cd stock-sentiment-dashboard/app
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
+
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
@@ -82,7 +83,7 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 ```bash
     pip install -r requirements.txt
 ```
-4. Usage
+## Usage
 
 Run the Streamlit dashboard:
 ```bash
